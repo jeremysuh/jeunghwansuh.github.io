@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-img: cake.png
+img: android.png
 alt: image-alt
 description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>.
 
