@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: dewdd
+modal-id: 4
 img: github.png
 alt: image-alt
 description: My Github profile showcases the various side projects I have worked over time. I have utilized a variety of programming languages that includes Java, Python, and Javascript. My project collection consists of a classical guitar simulator, a tea brewing timer, a virtual card game, and various others.   <a href="https://github.com/jeunghwansuh">Click here to view Github profile</a>. 
