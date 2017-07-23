@@ -3,6 +3,6 @@ layout: default
 modal-id: 2
 img: android.png
 alt: image-alt
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>.
+description: Under the developer name, ‘Maplevine’, I have published a number of mobile apps onto the Google Play Store over the past few years. With a large portion of theese being games, these includes titles such as ‘Rocket Muffin’, ‘Around and Around’, and ‘Lab Nine’. <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Click to go to my Android developer profile</a>.
 
 ---
