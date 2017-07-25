@@ -2,6 +2,7 @@
 layout: default
 modal-id: 3
 img: newgrounds.png
+name: Flash Game Developement
 alt: image-alt
 description: One of my earliest projects as an aspiring developer involved making flash games. Under the username 'Darkshadowz9858', I have published two games (Spectrum Side and Penguin's Pole) onto the Newgrounds game portal site. <a href="http://darkshadowz9858.newgrounds.com/">Click here to view Newgrounds profile</a>.
 

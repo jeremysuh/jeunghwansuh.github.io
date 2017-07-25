@@ -2,6 +2,7 @@
 layout: default
 modal-id: 2
 img: android.png
+name: Android Developement
 alt: image-alt
 description: Under the developer name, ‘Maplevine’, I have published a number of mobile apps onto the Google Play Store over the past few years. With a large portion of them being games, it includes titles such as ‘Rocket Muffin’, ‘Around and Around’, and ‘Lab Nine’. <a href="https://play.google.com/store/apps/developer?id=Maplevine">Click to view Android developer profile</a>.
 
